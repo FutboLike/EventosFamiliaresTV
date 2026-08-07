@@ -1,0 +1,23 @@
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS Premium" tvg-logo="" group-title="LAME | CHILE",CL: TNT SPORTS Premium
+http://elmatematicoeseljotodejc.neospaxy.top:8080/5421772894928/c30ec90b1669/58788
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 03" tvg-logo="" group-title="LAME | CHILE",CL: TNT SPORTS 03
+http://elmatematicoeseljotodejc.neospaxy.top:8080/5421772894928/c30ec90b1669/58789
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 02" tvg-logo="" group-title="LAME | CHILE",CL: TNT SPORTS 02
+http://elmatematicoeseljotodejc.neospaxy.top:8080/5421772894928/c30ec90b1669/58790
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS" tvg-logo="" group-title="LAME | CHILE",CL: TNT SPORTS
+http://elmatematicoeseljotodejc.neospaxy.top:8080/5421772894928/c30ec90b1669/58791
+
+
+
+DAZN
+#EXTM3U
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
+http://elmatematicoeseljotodejc.neospaxy.top:8080/5421772894928/c30ec90b1669/25125
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://elmatematicoeseljotodejc.neospaxy.top:8080/5421772894928/c30ec90b1669/57344
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://elmatematicoeseljotodejc.neospaxy.top:8080/5421772894928/c30ec90b1669/63431
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD) DAZN LALIGA
+http://elmatematicoeseljotodejc.neospaxy.top:8080/5421772894928/c30ec90b1669/54668
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://elmatematicoeseljotodejc.neospaxy.top:8080/5421772894928/c30ec90b1669/57359
