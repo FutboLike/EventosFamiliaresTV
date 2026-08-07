@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/channelCard" android:layout_width="match_parent" android:layout_height="150dp"
+    android:layout_margin="8dp" android:orientation="vertical" android:gravity="center"
+    android:background="@drawable/bg_channel" android:clickable="true" android:focusable="true"
+    android:padding="16dp">
+    <TextView android:id="@+id/channelNumber" android:layout_width="44dp" android:layout_height="44dp"
+        android:gravity="center" android:background="@drawable/bg_badge" android:textColor="@color/white"
+        android:textSize="18sp" android:textStyle="bold" />
+    <TextView android:id="@+id/channelName" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="12dp" android:gravity="center" android:maxLines="1" android:ellipsize="end"
+        android:textColor="@color/white" android:textSize="18sp" android:textStyle="bold" />
+    <TextView android:id="@+id/channelState" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="5dp" android:textColor="@color/purple_light" android:textSize="12sp" />
+</LinearLayout>
