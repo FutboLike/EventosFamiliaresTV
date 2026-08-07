@@ -9,6 +9,9 @@
     <string name="access">INGRESAR</string>
     <string name="cancel">CANCELAR</string>
     <string name="wrong_password">Clave incorrecta</string>
+    <string name="checking_access">Comprobando acceso…</string>
+    <string name="channel_in_use">Esta clave ya está siendo utilizada en otro dispositivo.</string>
+    <string name="session_error">No fue posible comprobar el acceso. Revisa tu conexión.</string>
     <string name="connection_error">No se pudieron cargar los canales. Revisa tu conexión.</string>
     <string name="playing">Reproduciendo %1$s</string>
     <string name="player_error">No fue posible reproducir este canal</string>
