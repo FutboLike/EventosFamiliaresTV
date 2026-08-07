@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="background">#08060D</color>
+    <color name="surface">#171020</color>
+    <color name="surface_alt">#241532</color>
+    <color name="purple">#9C27FF</color>
+    <color name="purple_light">#C77DFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#B9AFC5</color>
+    <color name="error">#FF5C7A</color>
+</resources>

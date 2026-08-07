@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EventosFamiliaresTV</string>
+    <string name="subtitle">Elige un canal para comenzar</string>
+    <string name="loading">Cargando canales…</string>
+    <string name="unavailable">Próximamente</string>
+    <string name="access_title">Acceso a %1$s</string>
+    <string name="access_hint">Ingresa la clave del canal</string>
+    <string name="access">INGRESAR</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="wrong_password">Clave incorrecta</string>
+    <string name="connection_error">No se pudieron cargar los canales. Revisa tu conexión.</string>
+    <string name="playing">Reproduciendo %1$s</string>
+    <string name="player_error">No fue posible reproducir este canal</string>
+</resources>
