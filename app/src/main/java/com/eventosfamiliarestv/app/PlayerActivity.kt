@@ -31,8 +31,7 @@ class PlayerActivity : AppCompatActivity() {
 
         libVLC = LibVLC(this, arrayListOf("--network-caching=1800", "--clock-jitter=0", "--clock-synchro=0"))
         mediaPlayer = MediaPlayer(libVLC).apply {
-            vlcVout.setVideoView(binding.videoSurface)
-            vlcVout.attachViews()
+            attachViews(binding.videoLayout, null, false, false)
             setEventListener { event ->
                 runOnUiThread {
                     when (event.type) {
@@ -85,7 +84,7 @@ class PlayerActivity : AppCompatActivity() {
 
     override fun onDestroy() {
         if (::mediaPlayer.isInitialized) {
-            mediaPlayer.vlcVout.detachViews()
+            mediaPlayer.detachViews()
             mediaPlayer.release()
         }
         if (::libVLC.isInitialized) libVLC.release()
