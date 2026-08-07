@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "615826462466",
+    "firebase_url": "https://eventosfamiliarestv-default-rtdb.firebaseio.com",
+    "project_id": "eventosfamiliarestv",
+    "storage_bucket": "eventosfamiliarestv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615826462466:android:9af0fbe4d9a954998a141b",
+        "android_client_info": {
+          "package_name": "com.eventosfamiliarestv.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYh2wmC-bDUPOFqrSD07eM_kviQtBoX3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
