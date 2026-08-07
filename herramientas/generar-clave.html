@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="es">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Generador de claveHash</title>
+<style>body{font-family:Arial;background:#08060d;color:#fff;max-width:680px;margin:50px auto;padding:24px}input,button{box-sizing:border-box;width:100%;padding:14px;margin:8px 0;border-radius:8px;border:1px solid #9c27ff}button{background:#9c27ff;color:#fff;font-weight:bold;cursor:pointer}pre{white-space:pre-wrap;word-break:break-all;background:#171020;padding:16px;border-radius:8px;color:#c77dff}</style>
+<h1>Generar clave para Firebase</h1>
+<p>Escribe la clave de un canal. Copia el resultado en su campo <b>claveHash</b>.</p>
+<input id="key" type="password" placeholder="Clave del canal">
+<button onclick="makeHash()">GENERAR CLAVEHASH</button>
+<pre id="out">El resultado aparecerá aquí.</pre>
+<script>async function makeHash(){const v=document.querySelector('#key').value;const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(v));document.querySelector('#out').textContent=[...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('')}</script>
+</html>
